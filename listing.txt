@@ -1,3 +1,4 @@
 Liste des étapes du projet :
 
 - Création d'Github
+- premiers tests
